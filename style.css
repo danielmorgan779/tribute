@@ -1,0 +1,29 @@
+img {
+	border-radius: 50%;
+	width: 350px;
+	height: 400px;	
+}
+
+body {
+	background-color: black;
+}
+
+p {
+	color: red;
+}
+
+h1 {
+	color: red;
+}
+
+span {
+	color: red;
+}
+
+ul {
+	color: red;
+}
+
+h2 {
+	color: red;
+}
